@@ -1,4 +1,4 @@
-# Developer Friction Analyzer (Sent.dm Case Study)
+# Developer Friction Analyzer (Case Study)
 
 **A Market Intelligence & Automated Campaign Tool**
 
