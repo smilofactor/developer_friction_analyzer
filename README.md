@@ -45,4 +45,4 @@ To identify where developers struggle with competitor APIs (Twilio, MessageBird,
 - **License:** Proprietary / Evaluation Only. See header in source files.
 
 ---
-*Created by SMilovidov - 2026*
+*Created by smilofactor - 2026*
